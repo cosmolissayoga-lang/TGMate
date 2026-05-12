@@ -1,0 +1,5 @@
+# For CLI: replace with your project id after `supabase link`
+project_id = ""
+
+[functions.verify-init]
+verify_jwt = false
